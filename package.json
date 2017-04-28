@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "angular": "^1.3.8",
+    "jquery": "~2.1.1",
+    "jquery-stalker": "^1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pelizza/angular-stalker.git"
